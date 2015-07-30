@@ -4,3 +4,6 @@
 [submodule "buffalo_whr1166d"]
 	path = buffalo_whr1166d
 	url = git@github.com:f47h3r/buffalo_whr1166d.git
+[submodule "dlink_dir-865L"]
+	path = dlink_dir-865L
+	url = git@github.com:f47h3r/dlink_dir-865L.git
